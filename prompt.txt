@@ -1,0 +1,8 @@
+Hãy viết một hướng dẫn ngữ pháp tiếng Anh về "" theo phong cách giống *English Grammar in Use*:
+
+* Bắt đầu bằng một tình huống minh họa thực tế (câu tiếng Anh + dịch tiếng Việt).
+* Giải thích ý nghĩa và cách dùng của cấu trúc/ngữ pháp đó bằng đoạn văn tự nhiên, không dùng công thức khô khan (ví dụ: tránh viết “Công thức: Subject + Verb + Noun”).
+* Các ví dụ minh họa nên có câu tiếng Anh, dịch tiếng Việt, và ghi chú khi cần (ví dụ: *not ‘…’* để chỉ sự khác biệt).
+* Nên có phần mở rộng cho những trường hợp sử dụng nâng cao (ví dụ: dùng với “today”, “this week”, hoặc để chỉ sự thay đổi đang diễn ra).
+* Trình bày theo mạch văn dẫn dắt, nhưng có thể dùng bảng nhỏ hoặc ghi chú đậm (...) khi cần so sánh hoặc phân loại để người học dễ ghi nhớ.
+* Văn phong rõ ràng, súc tích, giống như tài liệu học tiếng Anh cho người Việt.
